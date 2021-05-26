@@ -1,0 +1,8 @@
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaData\bin\Debug\netcoreapp3.1\TriviaData.deps.json
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaData\bin\Debug\netcoreapp3.1\TriviaData.dll
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaData\bin\Debug\netcoreapp3.1\TriviaData.pdb
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaData\obj\Debug\netcoreapp3.1\TriviaData.AssemblyInfoInputs.cache
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaData\obj\Debug\netcoreapp3.1\TriviaData.AssemblyInfo.cs
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaData\obj\Debug\netcoreapp3.1\TriviaData.csproj.CoreCompileInputs.cache
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaData\obj\Debug\netcoreapp3.1\TriviaData.dll
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaData\obj\Debug\netcoreapp3.1\TriviaData.pdb

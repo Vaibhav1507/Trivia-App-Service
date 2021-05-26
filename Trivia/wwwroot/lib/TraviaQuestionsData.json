@@ -1,0 +1,65 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the villian in the 2015 Russian-American Sci-Fi Movie &quot;Hardcore Henry&quot;?",
+      "correct_answer": "Akan",
+      "incorrect_answers": [
+        "Estelle",
+        "Jimmy",
+        "Henry"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Darth Vader&#039;s famous reveal to Luke is iconic. But which of these is the right one?",
+      "correct_answer": "&quot;No. I am your father.&quot;",
+      "incorrect_answers": [
+        "&quot;Luke, I am your father.&quot;",
+        "&quot;You&#039;re wrong. I am your father.&quot;",
+        "&quot;The truth is that I am your father.&quot;"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What year did the James Cameron film &quot;Titanic&quot; come out in theaters?",
+      "correct_answer": "1997",
+      "incorrect_answers": [
+        "1996",
+        "1998",
+        "1999"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who provided a majority of the songs and lyrics for &quot;Spirit: Stallion of the Cimarron&quot;?",
+      "correct_answer": "Bryan Adams",
+      "incorrect_answers": [
+        "Smash Mouth",
+        "Oasis",
+        "Air Supply"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the movie &quot;Back to the Future,&quot; what speed does Doc Brown&#039;s DeLorean need to reach in order to travel through time?",
+      "correct_answer": "88 mph",
+      "incorrect_answers": [
+        "77 mph",
+        "100 mph",
+        "70 mph"
+      ]
+    }
+  ]
+}

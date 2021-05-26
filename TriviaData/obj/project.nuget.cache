@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1qugjFALI1nKXGoXqih7GKHNYvVVul9opkktwWaAdWsH8PiXjki/ujo64WNWG27V/nFxgOKaEt1tnwHsnaV/0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CT301195\\Desktop\\Vaibhav\\Trivia\\Trivia\\TriviaData\\TriviaData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CT301195\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

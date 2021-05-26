@@ -1,0 +1,12 @@
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaAppCore\bin\Debug\netcoreapp3.1\TriviaAppCore.deps.json
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaAppCore\bin\Debug\netcoreapp3.1\TriviaAppCore.dll
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaAppCore\bin\Debug\netcoreapp3.1\TriviaAppCore.pdb
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaAppCore\obj\Debug\netcoreapp3.1\TriviaAppCore.csprojAssemblyReference.cache
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaAppCore\obj\Debug\netcoreapp3.1\TriviaAppCore.AssemblyInfoInputs.cache
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaAppCore\obj\Debug\netcoreapp3.1\TriviaAppCore.AssemblyInfo.cs
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaAppCore\obj\Debug\netcoreapp3.1\TriviaAppCore.csproj.CoreCompileInputs.cache
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaAppCore\obj\Debug\netcoreapp3.1\TriviaAppCore.dll
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaAppCore\obj\Debug\netcoreapp3.1\TriviaAppCore.pdb
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaAppCore\bin\Debug\netcoreapp3.1\TriviaData.dll
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaAppCore\bin\Debug\netcoreapp3.1\TriviaData.pdb
+C:\Users\CT301195\Desktop\Vaibhav\Trivia\Trivia\TriviaAppCore\obj\Debug\netcoreapp3.1\TriviaAppCore.csproj.CopyComplete
